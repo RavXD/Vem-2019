@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-#Code By : Iwan Hadiansah ID
-#Github : https://github.com/IwanDev-Official
-#Facebook : https://www.facebook.com/Iwan.Devoleper.378
+#Code By :Rav Pratama
+#Github : https://github.com/RavXD
+#Facebook : https://www.facebook.com/RavPratama.21
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize,bs4
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -30,18 +30,17 @@ ok = []
 ### LOGO
 logo = """      
    
-                *            (        )             )       (        )     )      )  (      
-              (  `       (   )\ )  ( /(   *   )  ( /(       )\ )  ( /(  ( /(   ( /(  )\ )   
- (   (   (    )\))(    ( )\ (()/(  )\())` )  /(  )\()) (   (()/(  )\()) )\())  )\())(()/(   
- )\  )\  )\  ((_)()\   )((_) /(_))((_)\  ( )(_))((_)\  )\   /(_))((_)\ ((_)\  ((_)\  /(_))  
-((_)((_)((_) (_()((_) ((_)_ (_))    ((_)(_(_())  _((_)((_) (_))   _((_)  ((_)   ((_)(_))_   
-\ \ / / | __||  \/  |  | _ )| _ \  / _ \|_   _| | || || __|| _ \ | || | / _ \  / _ \ |   \  
- \ V /  | _| | |\/| |  | _ \|   / | (_) | | |   | __ || _| |   / | __ || (_) || (_) || |) | 
-  \_/   |___||_|  |_|  |___/|_|_\  \___/  |_|   |_||_||___||_|_\ |_||_| \___/  \___/ |___/  
-                                                                                            \n
+                * 
+ \033[0;93m__      ________ __  __    _____  ____  _    _         _____  
+\033[;93m\ \    / /  ____|  \/  |  / ____|/ __ \| |  | |  /\   |  __ \ 
+\033[0;93m \ \  / /| |__  | \  / | | (___ | |  | | |  | | /  \  | |  | |
+\033[0;97m  \ \/ / |  __| | |\/| |  \___ \| |  | | |  | |/ /\ \ | |  | |
+\033[0;97m   \  /  | |____| |  | |  ____) | |__| | |__| / ____ \| |__| |
+\033[0;97m    \/   |______|_|  |_| |_____/ \___\_\\____/_/    \_\_____/ 
+                                                              \n
            \033[0;93mMULTI*  \033[0;97mSIMPLE* \033[0;93mBRUTE* \033[0;97mFORCE\n              
  [#]───────────────────────────────────────────────
- [#] Code By    : RAV PRATAMA XD
+ [#] Author    : RAV PRATAMA XD
  [#] github     : https://github.com/RAVXD
  [#] facebook   : https://www.facebook.com/IN14CC0UNDAB4D1NGT0D2021
  """
